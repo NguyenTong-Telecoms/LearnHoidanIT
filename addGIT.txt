@@ -1,0 +1,6 @@
+echo "# LearnHoidanIT" >> README.md
+git init
+git add .
+git commit -m "first commit 'tên dự án'"
+git remote add origin https://github.com/NguyenTong-Telecoms/LearnHoidanIT.git //thay thế link dự án mới
+git push origin master
